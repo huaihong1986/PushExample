@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\huaihong\umeng_message201605161350_v2.8.1\PushExample\PushDemo\libs\umeng-analytics-v5.5.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5d503ec571e2e98d972209afa203f94d11882c15">
+        <dex dex="D:\huaihong\umeng_message201605161350_v2.8.1\PushExample\PushDemo\build\intermediates\pre-dexed\debug\umeng-analytics-v5.5.3_e7ae43b4313bfce9f98446a1d0ca398a102b1fc4.jar" />
+    </item>
+    <item
+        jar="C:\Users\huaihong\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\huaihong\umeng_message201605161350_v2.8.1\PushExample\PushDemo\build\intermediates\pre-dexed\debug\okio-1.6.0_42d02bc5e2716f4dbaa871ab9e5f83d160bf1cc3.jar" />
+    </item>
+    <item
+        jar="C:\Users\huaihong\.gradle\caches\modules-2\files-2.1\com.squareup.wire\wire-runtime\2.1.2\fcaa443f7b6ad5f2d9b6a68c55972a366aaac5a\wire-runtime-2.1.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0fcaa443f7b6ad5f2d9b6a68c55972a366aaac5a">
+        <dex dex="D:\huaihong\umeng_message201605161350_v2.8.1\PushExample\PushDemo\build\intermediates\pre-dexed\debug\wire-runtime-2.1.2_30953ae77f3e469b52ef4a53f15136962e303f30.jar" />
+    </item>
+    <item
+        jar="D:\huaihong\umeng_message201605161350_v2.8.1\PushExample\PushDemo\build\intermediates\exploded-aar\PushExample\Pushlib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0a2e34fcb0cb6c74468f536edde2db9e4602222f">
+        <dex dex="D:\huaihong\umeng_message201605161350_v2.8.1\PushExample\PushDemo\build\intermediates\pre-dexed\debug\PushExample-Pushlib-unspecified_7d399ea2ee5ca1aab1a217d2f646a3019f2f1060.jar" />
+    </item>
+    <item
+        jar="D:\huaihong\umeng_message201605161350_v2.8.1\PushExample\PushDemo\build\intermediates\exploded-aar\PushExample\Pushlib\unspecified\jars\libs\com.umeng.message_v2.8.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d108efaf0ac397a5626e74c7deeeb80b9fa8a004">
+        <dex dex="D:\huaihong\umeng_message201605161350_v2.8.1\PushExample\PushDemo\build\intermediates\pre-dexed\debug\com.umeng.message_v2.8.1_720759e53601b96c65bdbaceffcb19366939863e.jar" />
+    </item>
+    <item
+        jar="D:\huaihong\umeng_message201605161350_v2.8.1\PushExample\PushDemo\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e19387dc3b060af32f5401f84fbe246635256955">
+        <dex dex="D:\huaihong\umeng_message201605161350_v2.8.1\PushExample\PushDemo\build\intermediates\pre-dexed\debug\android-support-v4_feae28d0368a2bb76fb7c1628a714627c6b917eb.jar" />
+    </item>
+
+</items>

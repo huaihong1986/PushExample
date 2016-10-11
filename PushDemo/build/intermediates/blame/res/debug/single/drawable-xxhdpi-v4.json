@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\huaihong\\umeng_message201605161350_v2.8.1\\PushExample\\PushDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\huaihong\\umeng_message201605161350_v2.8.1\\PushExample\\PushDemo\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\huaihong\\umeng_message201605161350_v2.8.1\\PushExample\\PushDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\umeng_push_notification_default_small_icon.png",
+        "source": "D:\\huaihong\\umeng_message201605161350_v2.8.1\\PushExample\\PushDemo\\res\\drawable-xxhdpi\\umeng_push_notification_default_small_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\huaihong\\Downloads\\umeng_message201605161350_v2.8.1\\PushExample\\PushDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\huaihong\\Downloads\\umeng_message201605161350_v2.8.1\\PushExample\\PushDemo\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\huaihong\\umeng_message201605161350_v2.8.1\\PushExample\\PushDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\umeng_push_notification_default_large_icon.png",
+        "source": "D:\\huaihong\\umeng_message201605161350_v2.8.1\\PushExample\\PushDemo\\res\\drawable-xxhdpi\\umeng_push_notification_default_large_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\huaihong\\Downloads\\umeng_message201605161350_v2.8.1\\PushExample\\PushDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\umeng_push_notification_default_large_icon.png",
+        "source": "C:\\Users\\huaihong\\Downloads\\umeng_message201605161350_v2.8.1\\PushExample\\PushDemo\\res\\drawable-xxhdpi\\umeng_push_notification_default_large_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\huaihong\\Downloads\\umeng_message201605161350_v2.8.1\\PushExample\\PushDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\umeng_push_notification_default_small_icon.png",
+        "source": "C:\\Users\\huaihong\\Downloads\\umeng_message201605161350_v2.8.1\\PushExample\\PushDemo\\res\\drawable-xxhdpi\\umeng_push_notification_default_small_icon.png"
+    }
+]
